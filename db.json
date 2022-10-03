@@ -1,19 +1,8 @@
 {
-  "name": "유찬홍",
-  "age": 16,
-  "subjects": [
-    {
-      "subjectsName": "math",
-      "teacher": "이성희 선생님"
-    },
-    {
-      "subjectsName": "science",
-      "teacher": "상zl노 선생님"
-    }
-  ],
-  "parents": "true",
-  "parentsName": {
-    "mother": "Ms Lee",
-    "father": "Mr Yoo"
-  }
+  "city": "Daejeon",
+  "streets": [
+    "address1",
+    "address2"
+  ]
 }
+
